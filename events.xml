@@ -4,7 +4,7 @@
   <event date="2016-02-26">
     <action type="watching">Watching video about IDD - Interactive Driven Design</action>
     <references>
-      <reference src="http://www.ustream.tv/recorded/61480606" type="source">
+      <reference src="http://www.ustream.tv/recorded/61480606" type="source" />
     </references>
   </event>
   <event date="2016-02-25">
