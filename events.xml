@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2016-02-26">
+    <action type="watching">Watching video about IDD - Interactive Driven Design</action>
+    <references>
+      <reference src="http://www.ustream.tv/recorded/61480606" type="source">
+    </references>
+  </event>
   <event date="2016-02-25">
     <action type="workshop">DevOps Workshop - DAY 3</action>
   </event>
