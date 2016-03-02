@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2016-03-01">
+    <action type="study">Studying MongoDb</action>
+  </event>
   <event date="2016-02-26">
     <action type="watching">Watching video about IDD - Interactive Driven Design</action>
     <references>
