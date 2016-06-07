@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+    <event date="2016-06-07">
+        <action type="study">Building Microservices - Chapter 4.</action>
+    </event>
   <event date="2016-03-01">
     <action type="study">Studying MongoDb</action>
   </event>
@@ -9,7 +12,7 @@
     <references>
       <reference src="http://www.ustream.tv/recorded/61480606" type="source" />
     </references>
-  </event>
+</event>
   <event date="2016-02-25">
     <action type="workshop">DevOps Workshop - DAY 3</action>
   </event>
