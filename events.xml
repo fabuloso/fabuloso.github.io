@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+     <event date="2016-06-15">
+        <action type="study">Building Microservices - Chapter 4.
+            Synchro vs Asynch
+        </action>
+    </event>
     <event date="2016-06-08">
         <action type="study">Building Microservices - Chapter 4.
             - Orchestration vs Choreography
