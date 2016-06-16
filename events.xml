@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+      <event date="2016-06-16">
+        <action type="spike">Book Shop with CQRS</action>
+    </event>
      <event date="2016-06-15">
         <action type="study">Building Microservices - Chapter 4.
             Synchro vs Asynch
